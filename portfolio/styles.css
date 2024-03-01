@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
